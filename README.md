@@ -1,47 +1,95 @@
-<img width="1218" height="2553" alt="image" src="https://github.com/user-attachments/assets/32bfa16d-1006-41d2-9eeb-801801986882" /><img width="392" height="856" alt="image" src="https://github.com/user-attachments/assets/f7246ebf-ca01-4fda-a850-f41a027ecc95" /># UTS LAB PEMROGRAMAN MOBILE
+# UTS Lab Pemrograman Mobile
 
-Nama : Leonard Auguste
-NIM : 241401078
-Lab : PM 5
+**Nama:** Leonard Auguste  
+**NIM:** 241401078  
+**Lab:** PM 5
 
-Nama Aplikasi **Quiz App**
-Deskripsi singkat Aplikasi
-Quiz App adalah aplikasi mobile interaktif berbasis Flutter yang dirancang untuk menguji wawasan pengguna dengan kuis pilihan ganda. Aplikasi ini memungkinkan pengguna untuk melakukan personalisasi dengan memasukkan nama dan memilih berbagai kategori kuis, seperti Pengetahuan Umum, Matematika, dan Pemrograman. App ini dibangun dengan UI yang simple, modern, responsif, dan menggunakan font kustom (Geist). Selain fungsionalitas kuis utama, aplikasi ini juga dilengkapi dengan fitur tambahan (bonus) berupa Animasi Perayaan (Confetti) untuk nilai kelulusan di atas 80%, serta Papan Peringkat Lokal (Leaderboard) yang memanfaatkan SharedPreferences untuk menyimpan riwayat skor pengguna secara lokal tanpa memerlukan database eksternal.
-Fitur-fitur yang tersedia
-1. Personalisasi Pengguna
-   Pengguna diwajibkan memasukkan nama sebelum memulai kuis agar hasil akhir terasa lebih personal.
-2. State Management
-   Menggunakan Stateful Widget untuk memastikan progres jawaban dan perhitungan skor tetap terjaga selama kuis berlangsung.
-3. Kalkulasi Statistik Hasil
-   Halaman hasil menampilkan skor total, akurasi ketepatan (dalam persentase), dan rincian jawaban benar/salah.
-4. Pemilihan Kategori Kuis
-   Pengguna dapat memilih spesifikasi kategori kuis (Pengetahuan Umum, Matematika, atau Pemrograman).
-5. Papan Peringkat Lokal (Leaderboard)
-   Memanfaatkan SharedPreferences untuk menyimpan riwayat nama, kategori, dan skor pengguna di memori internal perangkat tanpa memerlukan koneksi database eksternal.
-6. Animasi Perayaan (Confetti)
-   Memberikan reward visual interaktif berupa semburan confetti pada halaman hasil apabila pengguna berhasil meraih nilai ketepatan 80% ke atas.
+## Deskripsi Aplikasi
 
-assets :
-1. Logo Quiz App
-   <img width="132" height="210" alt="logo-quiz" src="https://github.com/user-attachments/assets/81cf41b0-0ffa-4d53-871e-ce75740c8361" />
-2. Font Geist
+**Quiz App** merupakan aplikasi mobile interaktif berbasis Flutter yang dirancang untuk menguji wawasan pengguna melalui kuis pilihan ganda.
 
-Screenshot tiap page Aplikasi
-1. Homepage
-<img width="1218" height="2553" alt="image" src="https://github.com/user-attachments/assets/cbf9e3f5-5451-40b4-b476-c9acd8fecb53" />
+Aplikasi ini memungkinkan pengguna melakukan personalisasi dengan memasukkan nama dan memilih kategori kuis, yaitu Pengetahuan Umum, Matematika, dan Pemrograman.
 
-2. Leaderboard
-<img width="1218" height="2553" alt="image" src="https://github.com/user-attachments/assets/6562f374-0b9e-4969-b777-2fe50522a222" />
+Dibangun dengan antarmuka yang sederhana, modern, dan responsif, aplikasi ini menggunakan font kustom **Geist** untuk memberikan pengalaman pengguna yang lebih nyaman.
 
-3. Kuis
-<img width="1218" height="2553" alt="image" src="https://github.com/user-attachments/assets/07681a81-2e1f-474e-a333-d618a32f5c85" />
+Selain fitur utama kuis, aplikasi ini juga dilengkapi dengan fitur tambahan berupa animasi Confetti sebagai perayaan ketika pengguna memperoleh akurasi di atas 80%, serta Local Leaderboard yang menggunakan SharedPreferences untuk menyimpan riwayat skor secara lokal tanpa memerlukan database eksternal.
 
-4. Hasil
-<img width="1218" height="2553" alt="image" src="https://github.com/user-attachments/assets/b9c5603b-34e2-4c4c-a00b-a207c81c46cf" />
+## Fitur Aplikasi
 
+1. **Personalisasi Pengguna**  
+   Pengguna memasukkan nama sebelum memulai kuis agar pengalaman penggunaan lebih personal.
 
-Link mockup/prototype Aplikasi
-Figma : https://www.figma.com/design/sEVPSSxSyh0MR0WKm6eQMJ/Quizzly---Mobile-Quiz-App-UI?node-id=5-275&t=8SBUVtFJzYZL81QN-1
+2. **State Management**  
+   Menggunakan StatefulWidget untuk mengelola progres kuis, pilihan jawaban, dan perhitungan skor selama permainan berlangsung.
 
-Video Presentasi :
+3. **Kalkulasi Statistik Hasil**  
+   Menampilkan skor akhir, persentase akurasi, serta rincian jumlah jawaban benar dan salah.
 
+4. **Pemilihan Kategori Kuis**  
+   Tersedia tiga kategori kuis: Pengetahuan Umum, Matematika, dan Pemrograman.
+
+5. **Local Leaderboard**  
+   Menggunakan SharedPreferences untuk menyimpan riwayat nama pengguna, kategori kuis, dan skor secara lokal pada perangkat.
+
+6. **Confetti Animation**  
+   Memberikan animasi perayaan ketika pengguna berhasil memperoleh akurasi sebesar 80% atau lebih.
+
+## Tools
+
+| Komponen | Teknologi |
+|---|---|
+| Framework | Flutter |
+| Programming Language | Dart |
+| State Management | StatefulWidget |
+| Local Storage | SharedPreferences |
+| Animation | Confetti |
+| Custom Font | Geist |
+| UI/UX Design | Figma |
+
+### Assets
+
+- **Logo Quiz App**
+
+  <img src="https://github.com/user-attachments/assets/81cf41b0-0ffa-4d53-871e-ce75740c8361" width="100" alt="Quiz App Logo" />
+
+- **Font:** Geist
+
+## Screenshots Aplikasi
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Homepage</strong><br/>
+      <img src="https://github.com/user-attachments/assets/cbf9e3f5-5451-40b4-b476-c9acd8fecb53" width="220" alt="Homepage"/>
+    </td>
+    <td align="center">
+      <strong>Leaderboard</strong><br/>
+      <img src="https://github.com/user-attachments/assets/6562f374-0b9e-4969-b777-2fe50522a222" width="220" alt="Leaderboard"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Quiz Page</strong><br/>
+      <img src="https://github.com/user-attachments/assets/07681a81-2e1f-474e-a333-d618a32f5c85" width="220" alt="Quiz Page"/>
+    </td>
+    <td align="center">
+      <strong>Result Page</strong><br/>
+      <img src="https://github.com/user-attachments/assets/b9c5603b-34e2-4c4c-a00b-a207c81c46cf" width="220" alt="Result Page"/>
+    </td>
+  </tr>
+</table>
+
+## UI/UX Prototype
+
+Desain dan prototype aplikasi dibuat menggunakan Figma.
+
+🔗 [View Figma Prototype](https://www.figma.com/design/sEVPSSxSyh0MR0WKm6eQMJ/Quizzly---Mobile-Quiz-App-UI?node-id=5-275&t=8SBUVtFJzYZL81QN-1)
+
+## Video Presentasi
+
+[Link Video Presentasi](#)
+
+---
+
+**Quiz App** — UTS Praktikum Pemrograman Mobile  
+Leonard Auguste | 241401078 | PM 5

@@ -49,8 +49,7 @@ Selain fitur utama kuis, aplikasi ini juga dilengkapi dengan fitur tambahan beru
 ### Assets
 
 - **Logo Quiz App**
-
-  <img src="https://github.com/user-attachments/assets/81cf41b0-0ffa-4d53-871e-ce75740c8361" width="100" alt="Quiz App Logo" />
+  <img src="https://github.com/user-attachments/assets/e0c99364-c5cf-4f66-b661-40d79d1dd83c" width="100" alt="Quiz App Logo" />
 
 - **Font:** Geist
 

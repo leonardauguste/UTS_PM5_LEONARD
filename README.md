@@ -86,9 +86,5 @@ Desain dan prototype aplikasi dibuat menggunakan Figma.
 
 ## Video Presentasi
 
-[Link Video Presentasi](#)
+[Link Video Presentasi](https://youtu.be/DpkumGOftEo)
 
----
-
-**Quiz App** — UTS Praktikum Pemrograman Mobile  
-Leonard Auguste | 241401078 | PM 5

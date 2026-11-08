@@ -6,7 +6,7 @@
 
 ## Deskripsi Aplikasi
 
-**Quiz App** merupakan aplikasi mobile interaktif berbasis Flutter yang dirancang untuk menguji wawasan pengguna melalui kuis pilihan ganda.
+**Kwis App** merupakan aplikasi mobile interaktif berbasis Flutter yang dirancang untuk menguji wawasan pengguna melalui kuis pilihan ganda.
 
 Aplikasi ini memungkinkan pengguna melakukan personalisasi dengan memasukkan nama dan memilih kategori kuis, yaitu Pengetahuan Umum, Matematika, dan Pemrograman.
 

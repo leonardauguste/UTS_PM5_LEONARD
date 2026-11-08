@@ -48,7 +48,7 @@ Selain fitur utama kuis, aplikasi ini juga dilengkapi dengan fitur tambahan beru
 
 ### Assets
 
-- **Logo Quiz App**
+- **Logo Kwis App**
   <img src="https://github.com/user-attachments/assets/e0c99364-c5cf-4f66-b661-40d79d1dd83c" width="100" alt="Quiz App Logo" />
 
 - **Font:** Geist
@@ -59,21 +59,21 @@ Selain fitur utama kuis, aplikasi ini juga dilengkapi dengan fitur tambahan beru
   <tr>
     <td align="center">
       <strong>Homepage</strong><br/>
-      <img src="https://github.com/user-attachments/assets/cbf9e3f5-5451-40b4-b476-c9acd8fecb53" width="220" alt="Homepage"/>
+      <img src="https://github.com/user-attachments/assets/967c72d8-379d-4a3e-ba53-728d2f454315" width="220" alt="Homepage"/>
     </td>
     <td align="center">
       <strong>Leaderboard</strong><br/>
-      <img src="https://github.com/user-attachments/assets/6562f374-0b9e-4969-b777-2fe50522a222" width="220" alt="Leaderboard"/>
+      <img src="https://github.com/user-attachments/assets/053cc66f-04fb-4a0f-86cf-6a1c2734e452" width="220" alt="Leaderboard"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Quiz Page</strong><br/>
-      <img src="https://github.com/user-attachments/assets/07681a81-2e1f-474e-a333-d618a32f5c85" width="220" alt="Quiz Page"/>
+      <strong>Quiz Page</strong><br/> 
+      <img src="https://github.com/user-attachments/assets/63c5c159-ec52-4f9b-a91a-dc882e5f5583" width="220" alt="Quiz Page"/>
     </td>
     <td align="center">
-      <strong>Result Page</strong><br/>
-      <img src="https://github.com/user-attachments/assets/b9c5603b-34e2-4c4c-a00b-a207c81c46cf" width="220" alt="Result Page"/>
+      <strong>Result Page</strong><br/> 
+      <img src="https://github.com/user-attachments/assets/2b2b1a54-94a2-40ab-a3c3-24cb033b4cbf" width="220" alt="Result Page"/>
     </td>
   </tr>
 </table>

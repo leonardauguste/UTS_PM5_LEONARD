@@ -44,7 +44,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   )
               ),
-
               SafeArea(
                 child: Align(
                   alignment: Alignment.topRight,
@@ -59,21 +58,19 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                 ),
               ),
-
               SafeArea(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 30),
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const Spacer(),]
+                      const Spacer(),
                       Container(
                         padding: isDark ? const EdgeInsets.all(15) : EdgeInsets.zero,
                         decoration: isDark ? const BoxDecoration(color: Colors.white, shape: BoxShape.circle) : null,
                         child: Image.asset('assets/images/logo-quiz.png', width: size.width * 0.45),
                       ),
                       const Spacer(),
-
                       Container(
                         decoration: BoxDecoration(
                             color: Colors.white.withOpacity(0.15),
@@ -92,7 +89,6 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                       ),
                       const SizedBox(height: 15),
-
                       const Align(
                         alignment: Alignment.centerLeft,
                         child: Text("Pilih Kategori:", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
@@ -116,7 +112,6 @@ class _HomeScreenState extends State<HomeScreen> {
                         }).toList(),
                       ),
                       const SizedBox(height: 25),
-
                       CustomButton(
                         text: "Mulai",
                         onPressed: () {
